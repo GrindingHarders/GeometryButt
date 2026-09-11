@@ -1,10 +1,6 @@
 # Geometry Butt (buttplug.io support for Geometry Dash)
 
-NOTE: This will NOT be submitted to the Geode mod index as it falls under NSFW. Don't ask. It will currently only be on releases tag for now as to my knowledge there is nowhere else which accepts NSFW Geometry Dash mods.
-
-# Downloading
-
-Check releases page.
+NOTE: This will NOT be submitted to the Geode mod index as it falls under NSFW. Don't ask.
 
 ### What is this?
 
@@ -43,4 +39,4 @@ This was compiled on a OS X system running Sequoia, as well as a CachyOS distro.
 
 # Testing
 
-Tested on OS X Sequoia Geode 5.3.0, as well as CachyOS w/KDE Plasma under Wayland. I could not get this working on FreeBSD, but it honestly might just be my borked setup...
+Tested on OS X 15.3.1 Geode 5.3.0, as well as CachyOS w/KDE Plasma under Wayland. I could not get this working on FreeBSD, but it honestly might just be my borked setup...
